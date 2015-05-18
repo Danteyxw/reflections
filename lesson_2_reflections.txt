@@ -1,0 +1,7 @@
+// What happens when you initiate a repository? Why do you need to do it?
+
+Initiating a repository creates the necessary files needed to track and maintain the current folder as a "repository". Makes it usable with git, basically.
+
+// How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+It is an area for the storage of the next commits. It allows the user to specify the files he/she wants to commit.
