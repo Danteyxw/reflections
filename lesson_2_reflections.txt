@@ -12,3 +12,15 @@ You can use it to check what changes are made.
 // What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 It would help in creating prototypes of intended changes to the code. This allows you to experiment on the new changes and also fix any bugs in the master branch at the same time.
+
+// How do the diagrams help you visualize the branch structure?
+
+It does it by being a diagram.
+
+// What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+All the changes from the branches are added together into a single commit.
+
+// What are the pros and cons of Git's automatic mergin vs. alway doing merges manually?
+
+Automatic merging saves times, but it can have unexpected results. This problem is resolved mostly by indicating conflicts between commits.
